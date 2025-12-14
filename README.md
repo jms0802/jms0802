@@ -1,5 +1,3 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=textBox&text1=🧗‍♂️🏠👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-
 <h3>✨ Tech Stack ✨</h3>
 <div>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
@@ -28,11 +26,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman">&nbsp
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel">
 </div>
-
-<hr>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jms0802&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jms0802)](https://solved.ac/jms0802/)
 
 <hr>
 
